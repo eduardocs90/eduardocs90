@@ -4,7 +4,7 @@
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocs90&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocs90&layout=donut)](https://github.com/eduardocs90/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocs90&layout=donut)](https://github.com/eduardocs90)
 
 ## Tecnologias que eu uso
 
