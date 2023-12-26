@@ -2,7 +2,8 @@
 
 ### Residente do Serratec - Full Stack Developer in Training
 
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](5524992219961)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-carneiro-8b0788277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardo1990350@gmail.com)
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocs90&show_icons=true&theme=radical)
 
